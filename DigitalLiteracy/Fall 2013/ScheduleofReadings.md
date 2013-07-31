@@ -1,5 +1,9 @@
 ## Week 1
+<<<<<<< HEAD
 ### August 27th, Tuesday 
+=======
+### August 27th, Tuesday ###
+>>>>>>> 8f84b3cbe2dd7e611af1ce56a1fe69cd7188453b
 * Class Introduction
 ### August 29th, Thursday
 * Net Smart (pgs 1-33)
