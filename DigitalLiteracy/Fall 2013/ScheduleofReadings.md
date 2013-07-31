@@ -1,5 +1,5 @@
 ## Week 1
-### August 27th, Tuesday
+### August 27th, Tuesday ###
 * Class Introduction
 ### August 29th, Thursday
 * Net Smart (pgs 1-33)
