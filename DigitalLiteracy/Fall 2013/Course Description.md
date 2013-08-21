@@ -39,7 +39,7 @@ Given this class’s focus on collaborative learning, it might seem somewhat awk
 
 **Digital Writing** (40%): You will be doing a great deal of writing in this class. Most of this will take the form of writing for your own individual website, building a semester long project. This will serve as the focus of much of the class as you learn to master writing online, including how to filter, connect, and engage readers. These assignments will vary both in terms of lenght and content, but expect to work on this every week. (Expect to spend 1-2 hours a week on this.)
 
-**Reflection Essays** (10%) You will be asked to write several short pieces throughout the semester reflecting on your engagment with the digital tools and spaces we expirement with in class. (Expect to spend 4-6 hours over the course of the semester on these.) 
+**Reflection Essays** (10%) You will be asked to write several short pieces throughout the semester reflecting on your engagment with the digital tools and spaces we experiment with in class. (Expect to spend 4-6 hours over the course of the semester on these.) 
 
 **Digital Media** (10%): Throughout the course we will be experimenting with multiple digital platforms. (Expect to spend approximately 1 hour a week on this.)
 
@@ -47,7 +47,7 @@ Given this class’s focus on collaborative learning, it might seem somewhat awk
 
 ### Course Website
 
-The course website for this class can be found at [www.outsidethetext.com/arche](http://outsidethetext.com/arche). You should get in the haabit of checking this regularly as I will post suggestions and thoughts about the readings here, as well as links to other things that might interest the class. The syllabus can be found here as well, and any changes to the syllabus will be posted here. If you forget the web address you can always find it from [www.outsidethetext.com](http://outsidethetext.com/) a much easier url to remember.
+The course website for this class can be found at [www.outsidethetext.com/arche](http://outsidethetext.com/arche). You should get in the haabit of checking this regularly as I will post suggestions and thoughts about the readings here, as well as links to other things that might interest the class. The syllabus can be found here as well, and any changes to the syllabus will be posted here. Please note: The syllabus might change throughout the course of the semester, indeed it probably will as we adjust to meet the needs of the class, so please develop a habit of checking the class website. If you forget the web address you can always find it from [www.outsidethetext.com](http://outsidethetext.com/) a much easier url to remember.
 
 ### A Note on Technology
 
