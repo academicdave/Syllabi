@@ -1,0 +1,20 @@
+### Assignment Two
+
+#### Class Goals
+* What should our goals for this class be? Contribute to the Public Google Document. Be Bold. You don't need to sign it. Just add to the list.
+
+#### Blog Assignment
+
+Write a paragraph (100-200 words) detailing what your blog for the semester will be about. Your paragraph should answer the following questions:
+* What will your blog be about?
+* Who would read your blog?
+* How will you distinguish yourself from all the other content online?
+* Why would people choose to read your blog?
+Note: In order to answer these questions you are going to need to spend sometime looking around at other blogs/websites to see what is out there.
+
+#### Readings
+* Read Rheingold *Net Smart* pages 111-126.
+* Watch ["RSS in Plain English"](http://www.youtube.com/watch?v=0klgLsSxGsU) Commoncraft
+* Read ["Introduction to RSS"](http://www.bleepingcomputer.com/tutorials/introduction-to-rss/) BleepingComputer.com
+* Read ["RIP:Google Reader Meets Its Inevitable End"](http://www.wired.com/gadgetlab/2013/03/r-i-p-google-reader/) Mat Honan *Wired* 
+
