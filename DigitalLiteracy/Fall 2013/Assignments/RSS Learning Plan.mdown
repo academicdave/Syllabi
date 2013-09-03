@@ -1,0 +1,26 @@
+## Learning to RSS
+
+### Outcomes
+* Install and Set Up Feedly Account
+* Understanding of How RSS Works and Its Advantages
+
+### Set-Up
+* Register for an RSS Reader. Start with Feedly.com
+* Browse the Interface.
+* Add Ten Websites that Relate to Your Topic.
+* Add Five Sites that you like to visit frequently but, which are not related to your website topic.
+* Add in the website for this course
+* Look at the Raw XML from one site.
+* Import the OPML File from Student Recommendations
+
+### Usage
+* Change the Preferences. Compare the Titles Only, Magazine, Cards, and Full Articles Layout.
+* Check Out all the Buttons. See what they do.
+* If you have a tablet check out the Feedly app.
+* Look at other RSS readers, what are the differences/similarities?
+* Refresh Your Reader. Browse Thru Articles. Save at Least One. Mark the Others as Read.
+* Change something else in the preferences and themes.
+
+
+
+### Resources
