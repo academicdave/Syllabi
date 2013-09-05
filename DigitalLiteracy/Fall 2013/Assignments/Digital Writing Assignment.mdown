@@ -1,0 +1,51 @@
+## Digital Writing Assignment
+
+The Digital Writing Assignment is a major project, and it asks you to participate in sustained writing, creative production, and research across the semester.
+
+## Requirements
+
+You are required to post at least 750 words of content to your blog each week. (Please note that 750 is the absolute low-end word count, and many of you should--and will--post more than this.) You can meet the basic word count requirement through one long post, or several shorter posts. I would encourage you to think strategically about posting: How can you keep the blog fresh, current, and continuously updated in order to find a readership and contribute to a conversation?
+
+The word count might initially seem intense; however, if you are following a significant number of interest-driven blogs, you should have plenty of material through which to filter, connect, critique, and advocate (hat tip to Rheingold). Some weeks I will guide you more on what to write, asking you to compose specific types of posts, other weeks you will be free to write whatever you find works for you and your readers.
+
+Weekly, your work will be assessed based only on word count. At the semester's end, your whole blog will be assessed based on criteria that we will negotiate together (at mid-term). 
+
+## Process
+
+### 1: Choose A Topic & Audience
+
+First, you will choose a topic that interests you and about which you would like to read and write in some depth this semester. Potential topics might range from [urban farming](http://www.urbanfarming.org/) to a [AAA baseball team](http://www.milb.com/index.jsp?sid=t1410) to [*Breaking Bad*](http://www.amctv.com/shows/breaking-bad) to the [ambient music scene in Philly](http://www.simpletone.com/). While you are free to choose any topic, you should keep three things in mind: 
+
+* *First*, the topic should be specific enough to offer focus in the writing and to draw interest from an audience. So [*fiction*](http://www.strandbooks.com/) might be too broad. [*Fantasy-based literature*](http://www.fantasyliterature.com/) would be a better choice. The universe of [*A Song of Ice and Fire*](http://awoiaf.westeros.org/) is much more narrow--and, with the right approach, could allow you to reach a specific and interested audience.
+* *Second*, you should be able to identify a *specific* audience for your blog. [Amateur runners in Philadelphia](http://www.phillyrunners.org/). [Home theater audio connoisseurs](http://www.avforums.com/). [Budget-minded chefs who live in studio apartments](http://smallapartmentchef.blogspot.com/). People who read [Margaret Atwood and Neal Stephenson](http://digitalsciencefiction.com/blog/). Your audience will extend beyond this interest community, but it is important that you begin with this specific audience in mind.
+* *Third*, you are looking to become an expert. You will be participating in an *interest-driven* community, so let your interest drive the work. Choose a topic in which you are interested and then use Wordpress to find and build community through that interest.
+
+### 2: Find the Conversation
+
+Next, you should determine who is talking about your topic and what they are saying. Before writing your first post, you should find at least ten blogs that relate to your topic and add them to your RSS reader. You should check these feeds several times each week, watching for current news or popular posts related to your topic. When you see an interesting post or something about which you want to write, archive it. One of the most important things you can do is have a list of things you want to write about ready to go.
+
+Throughout the semester we will build on your list of resources: Adding more RSS feeds, Twitter accounts to follow, social bookmarking tags, and more. These resources will require digital management and crap-detection skills, but they will also make your writing tasks *much* easier. You aren't writing in isolation; you are contributing to an existing and ongoing discussion. Really one of the hardest things to learn is how to manage all the information and workflow in order to be effective. Honestly it takes people years to figure this out, but in class we are going to work hard to get you to at least "level one" expertise quickly. Writing about something which interests you is 50% of the battle, 50% is commitment to the topic, and the other 50% is knowing how to manage the digital workflow.
+
+### 3: Participate--daily, weekly--in the Conversation
+
+When it is time to start writing, follow Rheingold's model: Filter, connect, critique, and advocate. Filtering might be the easiest place to begin--find an interesting post from your RSS feeds and point your readers to it. Don't just link; however, offer a bit of context. For example, see [this post from John Gruber's *Daring Fireball*](http://daringfireball.net/linked/2013/08/30/blackberry-10-sales). Notice how Gruber offers a block quote from the article and then a bit of commentary--explaining to readers why the article might be of interest to them.
+
+Begin with a post-type that works for you, and remember that the goal isn't to produce ground-breaking research or poetic prose; instead, you should simply begin by offering your perspective on a topic. Start with what's happening, what's interesting, what's curious.
+
+You should also think about the frequency and volume of your posts. If you only post once per week, your blog will grow very slowly. When a reader stumbles onto your work, they are going to look at how often you are posting--freshness is a reason to bookmark the site. Frequency also means you're writing more and more often, the first step to becoming a better digital communicator. If you only have one day per week to work on your blog, write several posts that day, upload them to Wordpress, and [schedule them to post](http://make.wordpress.org/support/user-manual/content/posts/schedule-a-post/) throughout the week.
+
+### 4: Learn the Conventions
+
+As you read and write, pay careful attention to the blogging conventions of your interest community. Do participants include many personal stories? Should a unique photo be added to each post? Read and respond to blog posts with an eye toward the vocabulary and practices of your interest-driven community.
+
+Finally, practice good and ethical intellectual procedures: give credit where due, cite your sources, write with care, don't troll, and--in general--be a thoughtful digital citizen. You will find that your good will is quickly returned.
+
+## Assessment
+
+At the end of each week (typically on Sunday), I will assess your blog based solely on word count. Missing a week of posts will result in a 5% reduction of the blog's total score. There are thirteen weeks during which you should post, so missing the word count each week would result in a maximum possible score of 35% for the project. Not good. Meeting the weekly word count, however, gives you a strong foundation for the end-of-semester assessment.
+
+This is my way of saying that it is very, very important to regularly work on and write in your blog.
+
+(Pro-tip: Post to your blog and post on time.)
+
+At the end of the semester I will score the complete blog via a rubric that we will design together at mid-term. While I will give you some possible assessment categories, the class will build this evaluation criteria together.
