@@ -1,0 +1,17 @@
+### Wordpress Workshop Day Two
+
+So you have your blog installed what next? Today you are going to work in groups of 3 to improve your posts from the weekend, and improve your site as a whole. You should work through the list below in order. But only move onto the next item once everyone in your group has finished the current step.
+
+* Look at the posts from the weekend. Edit them to reflect the things we discussed in class. In particular you want to make sure that you correctly site to the source material, give credit, and link to it. Also edit the language of the post for clarity.
+* Make sure you are not using the default theme. Choose one that rhetorically conveys your message. Be intentional with this. Explain to the others in your group why you chose that theme. Solicit input on what kinds of things you could do to make it better.
+* Give your blog a title. Something other than "my blog."
+* Make sure permalinks are set.
+* Do a Search for useful plugins. What ones do other people use that would help you? Install them.
+* What kind of resources could you add to this blog in addition to the updates you will post that will enhance the site. (Pinterest for visual sites, resource and events pages, basic explination pages, etc.)
+* Enhance your about page. Add a second paragraph that introduces yourself in relation to the topic.
+* Relabel all the generic stuff on the blog.
+* Change your name from admin to a name.
+* Experiment with Page Templates.
+* Think about comments, you might want to enable them, you also might want to turn them off on certain pages (the about page for instance).
+* What do you want on the Menu bar? What about the side bar?
+* Now have everyone in your group look at each other's sites, what are some overall things you could do to improve them? Make a list for each person of four specific things that you could be done.
