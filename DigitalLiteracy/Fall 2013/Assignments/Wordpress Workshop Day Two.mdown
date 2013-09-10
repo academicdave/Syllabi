@@ -14,4 +14,4 @@ So you have your blog installed what next? Today you are going to work in groups
 * Experiment with Page Templates.
 * Think about comments, you might want to enable them, you also might want to turn them off on certain pages (the about page for instance).
 * What do you want on the Menu bar? What about the side bar?
-* Now have everyone in your group look at each other's sites, what are some overall things you could do to improve them? Make a list for each person of four specific things that you could be done.
+* Now have everyone in your group look at each other's sites, what are some overall things you could do to improve them? Make a list for each person of four specific things that you could do.
