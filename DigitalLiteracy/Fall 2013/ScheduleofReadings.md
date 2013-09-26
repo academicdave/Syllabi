@@ -54,9 +54,9 @@
 * *Net Smart (77-109)
 
 ### October 3rd, Thursday
-* [ "The Top 15 Web Hoaxes of All Time" ](http://mashable.com/2009/07/15/internet-hoaxes/) Mashable
-* [ "Sorting the Real Sandy Photos From the Fakes" ](http://www.theatlantic.com/technology/archive/2012/10/sorting-the-real-sandy-photos-from-the-fakes/264243/ ) Alexis Magidral *The Atlantic*
-* ["In the Context of Web Context: How to check out any Web Page"](http://www.wordyard.com/2010/09/14/in-the-context-of-web-context-how-to-check-out-any-web-page/) Scott Rosenberg
+* ["How to Automatically Archive Your Life with IFTTT and Evernote"](http://lifehacker.com/5935658/how-to-automatically-archive-your-life-with-ifttt-and-evernote)
+* ["If you love Twitter apps, then you'll hate this story"](http://venturebeat.com/2012/09/20/ifttt-twitter/)
+* ["Twitter API updates: more authentication, fewer tweets, more rules, certification, and … talk to the hand"](http://venturebeat.com/2012/08/16/twitter-api-updates-more-authentication-fewer-tweets-more-rules-certification-and-talk-to-the-hand/)
 
 ## Week 7
 ### October 8th, Tuesday
