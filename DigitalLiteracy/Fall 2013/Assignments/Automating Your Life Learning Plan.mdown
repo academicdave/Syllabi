@@ -1,0 +1,12 @@
+
+### Automating Your Life Learning Plan
+
+* Sign Up for an IFTT account.
+* Click on the Wordpress Channel and activate it. Do the same for the Feedly Channel and the read later service of your choice.
+* Now Browse the other channels (especially the ones you use) and activate those.
+* Find at least one recipe that uses Wordpress and activate it.
+* Activate the recipe which takes "feedly" items saved for later and sends them to your read later service of choice.
+* Find at least three other recipes and activate those. (Check out the recipses. Also see the comments on the readings for class as they list creative ways to use IFTT.)
+* Test and modify your recipes.
+* Make use of these for at least a week, until they become second nature.
+* Now you are a pro! 
