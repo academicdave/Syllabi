@@ -1,0 +1,39 @@
+### Blog Portfolio Evaluation
+
+Completing this blog reflection is one of the reflection essays mentioned on the syllabus. (This along with your final reflection will constitute 10% of your grade so take time with this.)
+
+At the beginning of the year I gave you the “Digital Writing Assignment” which outlined your blog project, it contained the following at the end:
+At the end of the semester I will score the complete blog via a rubric that we will design together at mid-term. While I will give you some possible assessment categories, the class will build this evaluation criteria together.
+
+Now that we have passed the halfway point of the semester it is time to start laying out the criteria for which your project will be evaluated. Keep in mind that the blog portfolio is 40% of your grade.
+
+### Writing Your Reflection.
+
+Your next task is to look at the criteria above and spend some time thinking about how well your blog is accomplishing each of the criteria. Next you should write a narrative that explains how you feel you are doing on this project based on each of the areas. You should directly address each criteria, explaining both what you have done well and what you think you would like to improve on, with respect to each category. That is, within each criteria you should evaluate aspects that you feel are working and what needs improvement. Next write a summary of how you think your project as a whole is shaping up, discussing it overall and covering any areas that were not addressed by the criteria. Then, you should write at least two paragraphs explaining what your goals for your blog are for the remainder of the semester. You should explain what you would like to improve upon and what you want the final product to be. 
+
+### Assigning Your Optional Points
+
+*I have already assigned 60 points. You have 40 additional points with which to weight categories in order to meet your personal goals.*
+
+So, finally based on this you should decide how you want the optional points to be assigned. There are 50 points which you can choose to assign to any of the criteria, or, more boldly you can develop your own criteria. Think about your blog is there something valuable that you think isn’t being evaluated based on the criteria below? If so add it.
+
+**Assessment Criteria: 100 points total.**
+
+
+**Connection to Conversation (10 points):**
+Does the blog demonstrate that it is part of a longer conversation? Does it use links, mentions, and other tools to connect and extend to a larger network of discourse? Is it in conversation with a range of individuals--from larger entities to individual users? Across time, does it offer the reader a way to better understand the subject matter and the larger conversation?
+
+**Appearance (10 points):**
+Has Wordpress been styled beyond the defaults? Is there a developed menu, header, sidebar, and footer? Are widgets used? Is there a well-written and thorough about page? Are social media icons available? Does the Wordpress theme connect to and underscore the blog’s subject matter? Is the text formatted in a readable way?
+
+**Use of media (10 points):**
+Does the blog use media beyond alphabetic text? Are images used where appropriate? Are videos embedded? If relevant to subject, are there embedded audio clips? Does text wrap around images where necessary? Are images large, cropped, and well-positioned?
+
+**Content Variation (10 points):**
+Does content reflect a variety of post types, lengths, and genres? Looking across the entire blog, can a reader see a number of post types--such as filtering and connecting (via Rheingold) posts, how-to posts, analysis posts, list posts, recommendation posts, etc. Is there a mix of “original” content and content linking to other content?
+
+**Post Frequency (10 points):**
+Is the blog updated on a frequent basis? Does the blog show an engaged and knowledgeable author, posting regularly? Is new content posted throughout the week, at varying times?
+
+**Writing, Editing, & Clarity (10 points):**
+Does the blog have a voice? Is that voice appropriate for the subject manner, and does it demonstrate an understanding of the conventions for a [enter-your-subject-here] blog? Is the content clearly written, well-edited, and free of hasty errors?
