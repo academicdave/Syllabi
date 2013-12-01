@@ -1,0 +1,13 @@
+### Hacking Your Browser
+
+* Get started by downloading one of the browsers that allows you to modify it. THe two with the most extensions are Chrome and Firefox. Start with one of these. You can expirement with others later if you want.
+* Go to the extensions page for your selected browser:
+	* Chrome: https://chrome.google.com/webstore/category/extensions
+	* Firefox: https://addons.mozilla.org/en-US/firefox/
+* Notice how each has categories start browsing the categories and find ones that you might find useful.
+* Look at the reviews and ratings to help refine your choices.
+* Look at the ones that are "Most Popular" or "Trending."
+* Think about how you use the web browser, what would you like to be easier.
+* Install at least 3-4 to start using. Test them out.
+* If you are still looking for some you can try Googling for some. For instance if you use Pinterest a lot you might want to search for "Chrome Extension Pinterest" or you could try by activity something like "Best Firefox Addons for Bloggers."
+* Show off your best finds to the people at your table.
